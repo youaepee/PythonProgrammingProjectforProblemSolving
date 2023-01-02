@@ -1,0 +1,14 @@
+Name of the student : Stevie 
+Class Roll of the student : 4 
+Stream of the student : ECE 
+Your Student ID is : ECE234
+
+Marks obtained in Math is : 90 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 92 
+Marks obtained in Chemistry is : 98 
+Marks obtained in Biology is : 95 
+Marks obtained in English is : 90 
+
+You have got 465 in total with 93%
+Outstanding Performance... You have passed the exam with grade A.

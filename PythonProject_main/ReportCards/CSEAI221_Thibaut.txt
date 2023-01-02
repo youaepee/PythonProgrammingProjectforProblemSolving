@@ -1,0 +1,14 @@
+Name of the student : Thibaut 
+Class Roll of the student : 1 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI221
+
+Marks obtained in Math is : 87 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 88 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 77 
+Marks obtained in English is : 89 
+
+You have got 509 in total with 84%
+Excellent Performance... You have passed the exam with grade B.

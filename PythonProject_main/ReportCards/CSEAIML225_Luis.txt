@@ -1,0 +1,14 @@
+Name of the student : Luis 
+Class Roll of the student : 5 
+Stream of the student : CSEAIML 
+Your Student ID is : CSEAIML225
+
+Marks obtained in Math is : 89 
+Marks obtained in Python is : 88 
+Marks obtained in Physics is : 90 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 92 
+
+You have got 527 in total with 87%
+Excellent Performance... You have passed the exam with grade B.

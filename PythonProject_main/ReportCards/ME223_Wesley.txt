@@ -1,0 +1,14 @@
+Name of the student : Wesley 
+Class Roll of the student : 3 
+Stream of the student : ME 
+Your Student ID is : ME223
+
+Marks obtained in Math is : 70 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 72 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 76 
+Marks obtained in English is : 79 
+
+You have got 375 in total with 75%
+Good Performance... You have passed the exam with grade C.

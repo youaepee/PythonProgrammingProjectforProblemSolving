@@ -1,0 +1,14 @@
+Name of the student : Gerard 
+Class Roll of the student : 2 
+Stream of the student : CSE 
+Your Student ID is : CSE222
+
+Marks obtained in Math is : 79 
+Marks obtained in Python is : 78 
+Marks obtained in Physics is : 80 
+Marks obtained in Chemistry is : 67 
+Marks obtained in Biology is : 56 
+Marks obtained in English is : 69 
+
+You have got 429 in total with 71%
+Good Performance... You have passed the exam with grade C.

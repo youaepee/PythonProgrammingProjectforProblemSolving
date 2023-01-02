@@ -1,0 +1,14 @@
+Name of the student : Willy 
+Class Roll of the student : 1 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI231
+
+Marks obtained in Math is : 32 
+Marks obtained in Python is : 40 
+Marks obtained in Physics is : 39 
+Marks obtained in Chemistry is : 32 
+Marks obtained in Biology is : 31 
+Marks obtained in English is : 30 
+
+You have got 204 in total with 34%
+Extremely poor performance... You have Failed the Exam and got F.

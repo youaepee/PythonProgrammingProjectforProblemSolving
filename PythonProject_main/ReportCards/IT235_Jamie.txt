@@ -1,0 +1,14 @@
+Name of the student : Jamie 
+Class Roll of the student : 5 
+Stream of the student : IT 
+Your Student ID is : IT235
+
+Marks obtained in Math is : 54 
+Marks obtained in Python is : 50 
+Marks obtained in Physics is : 57 
+Marks obtained in Chemistry is : 59 
+Marks obtained in Biology is : 51 
+Marks obtained in English is : 50 
+
+You have got 321 in total with 64%
+Your performance is below average... There is massive scope of improvement... You have barely passed the exam with grade E.

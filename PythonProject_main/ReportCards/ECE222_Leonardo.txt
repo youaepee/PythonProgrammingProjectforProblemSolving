@@ -1,0 +1,14 @@
+Name of the student : Leonardo 
+Class Roll of the student : 2 
+Stream of the student : ECE 
+Your Student ID is : ECE222
+
+Marks obtained in Math is : 60 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 65 
+Marks obtained in Chemistry is : 66 
+Marks obtained in Biology is : 67 
+Marks obtained in English is : 62 
+
+You have got 320 in total with 64%
+Your performance is average... Work hard... You have passed the exam with grade D.

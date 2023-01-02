@@ -1,0 +1,14 @@
+Name of the student : Kante 
+Class Roll of the student : 3 
+Stream of the student : IT 
+Your Student ID is : IT233
+
+Marks obtained in Math is : 67 
+Marks obtained in Python is : 60 
+Marks obtained in Physics is : 68 
+Marks obtained in Chemistry is : 60 
+Marks obtained in Biology is : 62 
+Marks obtained in English is : 61 
+
+You have got 378 in total with 75%
+Your performance is average... Work hard... You have passed the exam with grade D.

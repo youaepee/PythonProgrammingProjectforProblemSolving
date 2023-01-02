@@ -1,0 +1,14 @@
+Name of the student : Marquinhos 
+Class Roll of the student : 2 
+Stream of the student : IT 
+Your Student ID is : IT222
+
+Marks obtained in Math is : 66 
+Marks obtained in Python is : 67 
+Marks obtained in Physics is : 69 
+Marks obtained in Chemistry is : 62 
+Marks obtained in Biology is : 70 
+Marks obtained in English is : 66 
+
+You have got 400 in total with 80%
+Your performance is average... Work hard... You have passed the exam with grade D.

@@ -1,0 +1,14 @@
+Name of the student : Kylian 
+Class Roll of the student : 5 
+Stream of the student : IT 
+Your Student ID is : IT225
+
+Marks obtained in Math is : 78 
+Marks obtained in Python is : 80 
+Marks obtained in Physics is : 82 
+Marks obtained in Chemistry is : 88 
+Marks obtained in Biology is : 78 
+Marks obtained in English is : 70 
+
+You have got 476 in total with 95%
+Good Performance... You have passed the exam with grade C.

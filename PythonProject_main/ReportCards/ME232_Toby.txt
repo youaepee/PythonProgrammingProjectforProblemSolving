@@ -1,0 +1,14 @@
+Name of the student : Toby 
+Class Roll of the student : 2 
+Stream of the student : ME 
+Your Student ID is : ME232
+
+Marks obtained in Math is : 60 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 65 
+Marks obtained in Chemistry is : 69 
+Marks obtained in Biology is : 68 
+Marks obtained in English is : 70 
+
+You have got 332 in total with 66%
+Your performance is average... Work hard... You have passed the exam with grade D.

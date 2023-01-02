@@ -1,0 +1,14 @@
+Name of the student : Marco 
+Class Roll of the student : 3 
+Stream of the student : IT 
+Your Student ID is : IT223
+
+Marks obtained in Math is : 82 
+Marks obtained in Python is : 80 
+Marks obtained in Physics is : 84 
+Marks obtained in Chemistry is : 88 
+Marks obtained in Biology is : 81 
+Marks obtained in English is : 80 
+
+You have got 495 in total with 99%
+Excellent Performance... You have passed the exam with grade B.

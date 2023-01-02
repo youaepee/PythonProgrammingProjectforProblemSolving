@@ -1,0 +1,14 @@
+Name of the student : Alphonso 
+Class Roll of the student : 3 
+Stream of the student : CSEIOTCSBS 
+Your Student ID is : CSEIOTCSBS223
+
+Marks obtained in Math is : 40 
+Marks obtained in Python is : 44 
+Marks obtained in Physics is : 41 
+Marks obtained in Chemistry is : 43 
+Marks obtained in Biology is : 45 
+Marks obtained in English is : 44 
+
+You have got 257 in total with 42%
+Extremely poor performance... You have Failed the Exam and got F.

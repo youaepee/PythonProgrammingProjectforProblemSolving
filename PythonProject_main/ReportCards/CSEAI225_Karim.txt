@@ -1,0 +1,14 @@
+Name of the student : Karim 
+Class Roll of the student : 5 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI225
+
+Marks obtained in Math is : 56 
+Marks obtained in Python is : 59 
+Marks obtained in Physics is : 58 
+Marks obtained in Chemistry is : 34 
+Marks obtained in Biology is : 59 
+Marks obtained in English is : 60 
+
+You have got 326 in total with 54%
+Your performance is below average... There is massive scope of improvement... You have barely passed the exam with grade E.

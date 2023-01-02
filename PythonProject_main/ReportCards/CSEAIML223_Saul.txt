@@ -1,0 +1,14 @@
+Name of the student : Saul 
+Class Roll of the student : 3 
+Stream of the student : CSEAIML 
+Your Student ID is : CSEAIML223
+
+Marks obtained in Math is : 83 
+Marks obtained in Python is : 80 
+Marks obtained in Physics is : 86 
+Marks obtained in Chemistry is : 88 
+Marks obtained in Biology is : 65 
+Marks obtained in English is : 66 
+
+You have got 468 in total with 78%
+Good Performance... You have passed the exam with grade C.

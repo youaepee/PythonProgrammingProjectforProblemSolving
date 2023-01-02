@@ -1,0 +1,14 @@
+Name of the student : Antoine 
+Class Roll of the student : 4 
+Stream of the student : CSEAIML 
+Your Student ID is : CSEAIML224
+
+Marks obtained in Math is : 78 
+Marks obtained in Python is : 77 
+Marks obtained in Physics is : 77 
+Marks obtained in Chemistry is : 67 
+Marks obtained in Biology is : 69 
+Marks obtained in English is : 80 
+
+You have got 448 in total with 74%
+Good Performance... You have passed the exam with grade C.

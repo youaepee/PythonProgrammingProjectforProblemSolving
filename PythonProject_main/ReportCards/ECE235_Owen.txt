@@ -1,0 +1,14 @@
+Name of the student : Owen 
+Class Roll of the student : 5 
+Stream of the student : ECE 
+Your Student ID is : ECE235
+
+Marks obtained in Math is : 82 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 83 
+Marks obtained in Chemistry is : 89 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 94 
+
+You have got 438 in total with 87%
+Excellent Performance... You have passed the exam with grade B.

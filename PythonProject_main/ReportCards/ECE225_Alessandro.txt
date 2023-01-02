@@ -1,0 +1,14 @@
+Name of the student : Alessandro 
+Class Roll of the student : 5 
+Stream of the student : ECE 
+Your Student ID is : ECE225
+
+Marks obtained in Math is : 90 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 92 
+Marks obtained in Chemistry is : 95 
+Marks obtained in Biology is : 96 
+Marks obtained in English is : 100 
+
+You have got 473 in total with 94%
+Outstanding Performance... You have passed the exam with grade A.

@@ -1,0 +1,14 @@
+Name of the student : Kasper 
+Class Roll of the student : 1 
+Stream of the student : IT 
+Your Student ID is : IT231
+
+Marks obtained in Math is : 49 
+Marks obtained in Python is : 40 
+Marks obtained in Physics is : 48 
+Marks obtained in Chemistry is : 49 
+Marks obtained in Biology is : 41 
+Marks obtained in English is : 50 
+
+You have got 277 in total with 55%
+Extremely poor performance... You have Failed the Exam and got F.

@@ -1,0 +1,14 @@
+Name of the student : Leo 
+Class Roll of the student : 5 
+Stream of the student : CSE 
+Your Student ID is : CSE225
+
+Marks obtained in Math is : 100 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 99 
+Marks obtained in Chemistry is : 100 
+Marks obtained in Biology is : 99 
+Marks obtained in English is : 98 
+
+You have got 596 in total with 99%
+Outstanding Performance... You have passed the exam with grade A.

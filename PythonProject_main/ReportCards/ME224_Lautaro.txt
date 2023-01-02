@@ -1,0 +1,14 @@
+Name of the student : Lautaro 
+Class Roll of the student : 4 
+Stream of the student : ME 
+Your Student ID is : ME224
+
+Marks obtained in Math is : 50 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 56 
+Marks obtained in Chemistry is : 57 
+Marks obtained in Biology is : 55 
+Marks obtained in English is : 50 
+
+You have got 268 in total with 53%
+Your performance is below average... There is massive scope of improvement... You have barely passed the exam with grade E.

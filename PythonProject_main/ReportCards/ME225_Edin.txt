@@ -1,0 +1,14 @@
+Name of the student : Edin 
+Class Roll of the student : 5 
+Stream of the student : ME 
+Your Student ID is : ME225
+
+Marks obtained in Math is : 70 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 67 
+Marks obtained in Chemistry is : 66 
+Marks obtained in Biology is : 56 
+Marks obtained in English is : 67 
+
+You have got 326 in total with 65%
+Your performance is average... Work hard... You have passed the exam with grade D.

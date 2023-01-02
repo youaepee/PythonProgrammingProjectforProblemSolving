@@ -1,0 +1,14 @@
+Name of the student : Eder 
+Class Roll of the student : 2 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI222
+
+Marks obtained in Math is : 78 
+Marks obtained in Python is : 77 
+Marks obtained in Physics is : 67 
+Marks obtained in Chemistry is : 65 
+Marks obtained in Biology is : 79 
+Marks obtained in English is : 80 
+
+You have got 446 in total with 74%
+Good Performance... You have passed the exam with grade C.

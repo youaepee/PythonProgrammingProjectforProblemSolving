@@ -1,0 +1,14 @@
+Name of the student : Garcia 
+Class Roll of the student : 3 
+Stream of the student : ECE 
+Your Student ID is : ECE233
+
+Marks obtained in Math is : 70 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 78 
+Marks obtained in Chemistry is : 79 
+Marks obtained in Biology is : 79 
+Marks obtained in English is : 80 
+
+You have got 386 in total with 77%
+Good Performance... You have passed the exam with grade C.

@@ -1,0 +1,14 @@
+Name of the student : Peter 
+Class Roll of the student : 1 
+Stream of the student : CSEIOTCSBS 
+Your Student ID is : CSEIOTCSBS231
+
+Marks obtained in Math is : 82 
+Marks obtained in Python is : 80 
+Marks obtained in Physics is : 87 
+Marks obtained in Chemistry is : 88 
+Marks obtained in Biology is : 80 
+Marks obtained in English is : 85 
+
+You have got 502 in total with 83%
+Excellent Performance... You have passed the exam with grade B.

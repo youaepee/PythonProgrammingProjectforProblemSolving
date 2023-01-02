@@ -1,0 +1,14 @@
+Name of the student : Dennis 
+Class Roll of the student : 5 
+Stream of the student : CSE 
+Your Student ID is : CSE235
+
+Marks obtained in Math is : 67 
+Marks obtained in Python is : 60 
+Marks obtained in Physics is : 69 
+Marks obtained in Chemistry is : 68 
+Marks obtained in Biology is : 80 
+Marks obtained in English is : 82 
+
+You have got 426 in total with 71%
+Good Performance... You have passed the exam with grade C.

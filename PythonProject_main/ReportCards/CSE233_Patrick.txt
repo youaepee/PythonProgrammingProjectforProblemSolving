@@ -1,0 +1,14 @@
+Name of the student : Patrick 
+Class Roll of the student : 3 
+Stream of the student : CSE 
+Your Student ID is : CSE233
+
+Marks obtained in Math is : 92 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 93 
+Marks obtained in Chemistry is : 95 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 91 
+
+You have got 551 in total with 91%
+Outstanding Performance... You have passed the exam with grade A.

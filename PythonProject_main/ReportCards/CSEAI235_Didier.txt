@@ -1,0 +1,14 @@
+Name of the student : Didier 
+Class Roll of the student : 5 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI235
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 99 
+Marks obtained in Chemistry is : 96 
+Marks obtained in Biology is : 91 
+Marks obtained in English is : 90 
+
+You have got 564 in total with 94%
+Outstanding Performance... You have passed the exam with grade A.

@@ -1,0 +1,14 @@
+Name of the student : Luka 
+Class Roll of the student : 3 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI223
+
+Marks obtained in Math is : 89 
+Marks obtained in Python is : 88 
+Marks obtained in Physics is : 88 
+Marks obtained in Chemistry is : 86 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 85 
+
+You have got 526 in total with 87%
+Excellent Performance... You have passed the exam with grade B.

@@ -1,0 +1,14 @@
+Name of the student : Mario 
+Class Roll of the student : 5 
+Stream of the student : CSEIOTCSBS 
+Your Student ID is : CSEIOTCSBS225
+
+Marks obtained in Math is : 77 
+Marks obtained in Python is : 70 
+Marks obtained in Physics is : 76 
+Marks obtained in Chemistry is : 71 
+Marks obtained in Biology is : 74 
+Marks obtained in English is : 78 
+
+You have got 446 in total with 74%
+Good Performance... You have passed the exam with grade C.

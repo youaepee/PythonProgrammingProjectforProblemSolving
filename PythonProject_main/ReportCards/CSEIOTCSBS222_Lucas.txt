@@ -1,0 +1,14 @@
+Name of the student : Lucas 
+Class Roll of the student : 2 
+Stream of the student : CSEIOTCSBS 
+Your Student ID is : CSEIOTCSBS222
+
+Marks obtained in Math is : 77 
+Marks obtained in Python is : 70 
+Marks obtained in Physics is : 79 
+Marks obtained in Chemistry is : 70 
+Marks obtained in Biology is : 65 
+Marks obtained in English is : 69 
+
+You have got 430 in total with 71%
+Good Performance... You have passed the exam with grade C.

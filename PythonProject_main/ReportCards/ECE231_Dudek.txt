@@ -1,0 +1,14 @@
+Name of the student : Dudek 
+Class Roll of the student : 1 
+Stream of the student : ECE 
+Your Student ID is : ECE231
+
+Marks obtained in Math is : 70 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 78 
+Marks obtained in Chemistry is : 71 
+Marks obtained in Biology is : 73 
+Marks obtained in English is : 75 
+
+You have got 367 in total with 73%
+Good Performance... You have passed the exam with grade C.

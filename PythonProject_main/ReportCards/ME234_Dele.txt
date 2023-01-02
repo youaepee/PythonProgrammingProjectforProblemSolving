@@ -1,0 +1,14 @@
+Name of the student : Dele 
+Class Roll of the student : 4 
+Stream of the student : ME 
+Your Student ID is : ME234
+
+Marks obtained in Math is : 70 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 78 
+Marks obtained in Chemistry is : 76 
+Marks obtained in Biology is : 75 
+Marks obtained in English is : 80 
+
+You have got 379 in total with 75%
+Good Performance... You have passed the exam with grade C.

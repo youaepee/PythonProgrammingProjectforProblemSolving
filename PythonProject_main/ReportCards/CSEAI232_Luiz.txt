@@ -1,0 +1,14 @@
+Name of the student : Luiz 
+Class Roll of the student : 2 
+Stream of the student : CSEAI 
+Your Student ID is : CSEAI232
+
+Marks obtained in Math is : 56 
+Marks obtained in Python is : 50 
+Marks obtained in Physics is : 58 
+Marks obtained in Chemistry is : 59 
+Marks obtained in Biology is : 70 
+Marks obtained in English is : 72 
+
+You have got 365 in total with 60%
+Your performance is average... Work hard... You have passed the exam with grade D.

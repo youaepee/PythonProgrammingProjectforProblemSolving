@@ -1,0 +1,14 @@
+Name of the student : Cristiano 
+Class Roll of the student : 5 
+Stream of the student : CSEIOTCSBS 
+Your Student ID is : CSEIOTCSBS235
+
+Marks obtained in Math is : 90 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 92 
+Marks obtained in Chemistry is : 93 
+Marks obtained in Biology is : 100 
+Marks obtained in English is : 98 
+
+You have got 573 in total with 95%
+Outstanding Performance... You have passed the exam with grade A.

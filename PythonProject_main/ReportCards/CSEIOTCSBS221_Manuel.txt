@@ -1,0 +1,14 @@
+Name of the student : Manuel 
+Class Roll of the student : 1 
+Stream of the student : CSEIOTCSBS 
+Your Student ID is : CSEIOTCSBS221
+
+Marks obtained in Math is : 92 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 95 
+Marks obtained in Chemistry is : 88 
+Marks obtained in Biology is : 86 
+Marks obtained in English is : 88 
+
+You have got 539 in total with 89%
+Excellent Performance... You have passed the exam with grade B.

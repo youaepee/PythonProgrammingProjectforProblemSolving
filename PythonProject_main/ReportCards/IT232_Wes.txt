@@ -1,0 +1,14 @@
+Name of the student : Wes 
+Class Roll of the student : 2 
+Stream of the student : IT 
+Your Student ID is : IT232
+
+Marks obtained in Math is : 64 
+Marks obtained in Python is : 60 
+Marks obtained in Physics is : 67 
+Marks obtained in Chemistry is : 59 
+Marks obtained in Biology is : 70 
+Marks obtained in English is : 67 
+
+You have got 387 in total with 77%
+Your performance is average... Work hard... You have passed the exam with grade D.

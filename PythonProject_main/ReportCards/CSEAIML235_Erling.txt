@@ -1,0 +1,14 @@
+Name of the student : Erling 
+Class Roll of the student : 5 
+Stream of the student : CSEAIML 
+Your Student ID is : CSEAIML235
+
+Marks obtained in Math is : 92 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 95 
+Marks obtained in Chemistry is : 94 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 91 
+
+You have got 552 in total with 92%
+Outstanding Performance... You have passed the exam with grade A.

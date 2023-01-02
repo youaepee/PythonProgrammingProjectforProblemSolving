@@ -1,0 +1,14 @@
+Name of the student : Sol 
+Class Roll of the student : 2 
+Stream of the student : CSE 
+Your Student ID is : CSE232
+
+Marks obtained in Math is : 78 
+Marks obtained in Python is : 70 
+Marks obtained in Physics is : 76 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 74 
+Marks obtained in English is : 72 
+
+You have got 448 in total with 74%
+Good Performance... You have passed the exam with grade C.

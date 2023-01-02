@@ -1,0 +1,14 @@
+Name of the student : Lloris 
+Class Roll of the student : 1 
+Stream of the student : ME 
+Your Student ID is : ME231
+
+Marks obtained in Math is : 40 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 45 
+Marks obtained in Chemistry is : 49 
+Marks obtained in Biology is : 40 
+Marks obtained in English is : 50 
+
+You have got 224 in total with 44%
+Extremely poor performance... You have Failed the Exam and got F.

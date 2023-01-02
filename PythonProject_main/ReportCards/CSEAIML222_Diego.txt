@@ -1,0 +1,14 @@
+Name of the student : Diego 
+Class Roll of the student : 2 
+Stream of the student : CSEAIML 
+Your Student ID is : CSEAIML222
+
+Marks obtained in Math is : 76 
+Marks obtained in Python is : 77 
+Marks obtained in Physics is : 78 
+Marks obtained in Chemistry is : 72 
+Marks obtained in Biology is : 71 
+Marks obtained in English is : 70 
+
+You have got 444 in total with 74%
+Good Performance... You have passed the exam with grade C.

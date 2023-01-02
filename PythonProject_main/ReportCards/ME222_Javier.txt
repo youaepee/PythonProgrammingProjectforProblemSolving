@@ -1,0 +1,14 @@
+Name of the student : Javier 
+Class Roll of the student : 2 
+Stream of the student : ME 
+Your Student ID is : ME222
+
+Marks obtained in Math is : 80 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 82 
+Marks obtained in Chemistry is : 88 
+Marks obtained in Biology is : 86 
+Marks obtained in English is : 89 
+
+You have got 425 in total with 85%
+Excellent Performance... You have passed the exam with grade B.

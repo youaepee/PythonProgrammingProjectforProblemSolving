@@ -1,0 +1,14 @@
+Name of the student : Gianluigi 
+Class Roll of the student : 1 
+Stream of the student : IT 
+Your Student ID is : IT221
+
+Marks obtained in Math is : 55 
+Marks obtained in Python is : 50 
+Marks obtained in Physics is : 56 
+Marks obtained in Chemistry is : 59 
+Marks obtained in Biology is : 58 
+Marks obtained in English is : 60 
+
+You have got 338 in total with 67%
+Your performance is below average... There is massive scope of improvement... You have barely passed the exam with grade E.

@@ -1,0 +1,14 @@
+Name of the student : Samir 
+Class Roll of the student : 1 
+Stream of the student : ME 
+Your Student ID is : ME221
+
+Marks obtained in Math is : 40 
+Marks obtained in Python is : null 
+Marks obtained in Physics is : 43 
+Marks obtained in Chemistry is : 46 
+Marks obtained in Biology is : 49 
+Marks obtained in English is : 55 
+
+You have got 233 in total with 46%
+Extremely poor performance... You have Failed the Exam and got F.
